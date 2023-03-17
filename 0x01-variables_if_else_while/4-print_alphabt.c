@@ -11,17 +11,17 @@
 
 int main(void)
 {
-char character = 'a';
+char character;
 
-while (character <= 'z')
+for (character = 'a'; character <= 'z'; character++)
 {
 if (character == 'e' || character == 'q')
 {
 continue;
 }
 putchar(character);
-character++;
 }
+
 putchar('\n');
 
 return (0);
