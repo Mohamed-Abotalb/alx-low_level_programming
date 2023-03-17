@@ -9,3 +9,5 @@
 - Fourth C file is 3-print_alphabets.c, it prints the alphabet in lowercase, and then in uppercase, followed by a new line using putchar function.
 
 - Fifth C file is 4-print_alphabet.c, it prints the alphabet in lowercase except the 'e' and 'q' letters using putchar function.
+
+- Sixth C file is 5-print_numbers.c, it prints the numbers from 0 to 9.
