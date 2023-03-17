@@ -15,3 +15,5 @@
 - Seventh C file is 6-print_numberz.c, it prints the numbers from 0 to 9 using putchar function.
 
 - Eighth C file is 7-print_tebahlpa.c, it prints the lowercase alphabets in reverse followed by a new line using putchar function.
+
+- Ninth C file is 8-print_base16.c, it prints all the numbers of base 16 in lowercase, followed by a new line using putchar function.
