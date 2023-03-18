@@ -21,3 +21,7 @@
 - Ninth C file is 8-print_base16.c, it prints all the numbers of base 16 in lowercase, followed by a new line using putchar function.
 
 - Tenth C file is 9-print_comb.c, it prints all possible combinations of single-digit numbers from 0 to 9 using putchar function.
+
+## Advanced Parts of the Task
+
+- First C file is 100-print_comb3.c, it prints all possible different combinations of two digits from 0 to 9 using putchar function.
