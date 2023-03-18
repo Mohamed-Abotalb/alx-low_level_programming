@@ -25,3 +25,5 @@
 ## Advanced Parts of the Task
 
 - First C file is 100-print_comb3.c, it prints all possible different combinations of two digits from 0 to 9 using putchar function.
+
+- Second C file is 101-print_comb4.c, it prints all possible different combinations of three digits from 0 to 9 using putchar function.
