@@ -27,3 +27,6 @@
 - First C file is 100-print_comb3.c, it prints all possible different combinations of two digits from 0 to 9 using putchar function.
 
 - Second C file is 101-print_comb4.c, it prints all possible different combinations of three digits from 0 to 9 using putchar function.
+
+- Third C file is 102-print_comb5.c, it prints all possible combinations of two two-digit numbers
+  from 0 to 99 using putchar function.
