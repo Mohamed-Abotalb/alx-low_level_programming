@@ -18,10 +18,6 @@ for (firstDigit = 0; firstDigit < 9; firstDigit++)
 
 for (secondDigit = firstDigit + 1; secondDigit <= 9; secondDigit++)
 {
-if (firstDigit == secondDigit)
-{
-continue;
-}
 putchar(firstDigit + 48);
 putchar(secondDigit + 48);
 if (firstDigit == 8)
