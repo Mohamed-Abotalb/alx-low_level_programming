@@ -13,3 +13,5 @@
 - Fifth C file is 4-isalpha.c, it checks for alphabetic character.
 
 - Sixth C file is 5-sign.c, it prints the sign of a number.
+
+- Seventh C file is 6-abs.c, it computes the absolute value of an integer.
