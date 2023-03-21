@@ -11,3 +11,5 @@
 - Fourth C file is 3-islower.c, it checks for lowercase character.
 
 - Fifth C file is 4-isalpha.c, it checks for alphabetic character.
+
+- Sixth C file is 5-sign.c, it prints the sign of a number.
