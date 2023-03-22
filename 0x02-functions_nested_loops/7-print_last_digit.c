@@ -14,9 +14,7 @@ int lastDigit;
 
 if (n < 0)
 {
-n *= -1;
-
-lastDigit = n % 10;
+lastDigit = -1 * (n % 10);
 }
 else
 {
