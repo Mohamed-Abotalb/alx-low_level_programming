@@ -35,3 +35,5 @@
 - Third C file is 102-fibonacci.c, it prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 
 - Fourth C file is 103-fibonacci.c, it prints the sum of the even-valued terms, followed by a new line and the terms should not exceed 4,000,000.
+
+- Fifth C file is 104-fibonacci.c, it prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
