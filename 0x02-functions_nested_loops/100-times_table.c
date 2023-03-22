@@ -12,10 +12,10 @@ int row, column, digit;
 
 if (n <= 15 || n >= 0)
 {
-for (row = 0; row < 10; row++)
+for (row = 0; row < n; row++)
 {
 _putchar(48);
-for (column = 1; column < 10; column++)
+for (column = 1; column < n; column++)
 {
 _putchar(',');
 _putchar(' ');
