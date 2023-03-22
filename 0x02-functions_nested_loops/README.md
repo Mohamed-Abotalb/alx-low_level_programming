@@ -23,3 +23,5 @@
 - Tenth C file is 9-times_table.c, it prints the 9 times table, starting with 0.
 
 - Eleventh C file is 10-add.c, it adds two integers and returns the result.
+
+- Twelfth C file is 11-print_to_98.c, it prints all natural numbers from n to 98, followed by a new line.
