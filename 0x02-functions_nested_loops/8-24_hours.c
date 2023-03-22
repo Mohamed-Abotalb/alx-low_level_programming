@@ -13,19 +13,11 @@ for (hour = 0; hour < 24; hour++)
 {
 for (minute = 0; minute < 60; minute++)
 {
-if (hour < 10)
-{
-_putchar(48);
-}
-_putchar(hour + 48);
-
+_putchar((hour / 10) + 48);
+_putchar((hour % 10) + 48);
 _putchar(':');
-
-if (minute < 10)
-{
-_putchar(48);
-}
-_putchar(minute + 48);
+_putchar((minute / 10) + 48);
+_putchar((minute % 10) + 48);
 _putchar('\n');
 }
 }
