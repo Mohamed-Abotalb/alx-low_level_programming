@@ -19,3 +19,5 @@
 - Eighth C file is 7- print_last_digit.c, it prints the last digit of a number.
 
 - Ninth C file is 8-24_hours.c, it prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+
+- Tenth C file is 9-times_table.c, it prints the 9 times table, starting with 0.
