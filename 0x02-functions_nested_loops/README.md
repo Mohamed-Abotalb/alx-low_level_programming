@@ -25,3 +25,7 @@
 - Eleventh C file is 10-add.c, it adds two integers and returns the result.
 
 - Twelfth C file is 11-print_to_98.c, it prints all natural numbers from n to 98, followed by a new line.
+
+## Advanced Parts of the Task
+
+- First C file is 100-times_table.c, it prints the n times table, starting with 0, if n is greater than 15 or less than 0 the function should not print anything.
