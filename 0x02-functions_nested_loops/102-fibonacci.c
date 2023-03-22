@@ -14,7 +14,7 @@ int main(void)
 unsigned long num1 = 1, num2 = 2, num3, index;
 
 printf("%lu, %lu, ", num1, num2);
-for (index = 2; index <= 50; index++)
+for (index = 3; index <= 50; index++)
 {
 num3 = num1 + num2;
 printf("%lu", num3);
