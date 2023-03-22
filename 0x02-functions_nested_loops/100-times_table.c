@@ -21,14 +21,17 @@ _putchar(',');
 _putchar(' ');
 
 digit = row * column;
+
 if (digit < 10)
 {
 _putchar(' ');
 }
+
 if (digit < 100)
 {
 _putchar(' ');
 }
+
 if (digit >= 100)
 {
 _putchar((digit / 100) + 48);
@@ -36,7 +39,7 @@ _putchar((digit / 10) % 10 + 48);
 }
 else if (digit <= 99 && digit >= 10)
 {
-_putchar((digit % 10) + 48);
+_putchar((digit / 10) + 48);
 }
 _putchar((digit % 10) + 48);
 }
