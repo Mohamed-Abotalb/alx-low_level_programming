@@ -40,7 +40,7 @@ unsigned long num1 = 1, num2 = 2, num3, zero1 = 0, zero2 = 0,
 zero3 = 0, max = 100000000;
 
 
-for (count = 1; count < 98; count++)
+for (count = 1; count <= 98; count++)
 {
 if (zero1 > 0)
 {
