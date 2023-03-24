@@ -5,3 +5,5 @@
 - First C file is 0-isupper.c, it checks for uppercase character.
 
 - Second C file is 1-isdigit.c, it checks for a digit (0 through 9).
+
+- Third C file is 2-mul.c, it multiplies two integers.
