@@ -21,7 +21,7 @@ for (hight = 0; hight < size; hight++)
 {
 for (space = 0; space < hight; space++)
 {
-if (hight + space <= size)
+if ((hight + space) <= size)
 {
 _putchar(' ');
 }
