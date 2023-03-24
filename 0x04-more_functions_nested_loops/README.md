@@ -13,3 +13,5 @@
 - Fifth C file is 4-print_most_numbers.c, it prints the numbers, from 0 to 9, followed by a new line without printing numbers 2 and 4.
 
 - Sixth C file is 5-more_numbers.c, it prints 10 times the numbers, from 0 to 14, followed by a new line.
+
+- Seventh C file is 6-print_line.c, it draws a straight line in the terminal.
