@@ -15,3 +15,5 @@
 - Sixth C file is 5-more_numbers.c, it prints 10 times the numbers, from 0 to 14, followed by a new line.
 
 - Seventh C file is 6-print_line.c, it draws a straight line in the terminal.
+
+- Eighth C file is 7-print_diagonal.c, it draws a diagonal line on the terminal.
