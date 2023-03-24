@@ -17,9 +17,9 @@ _putchar('\n');
 }
 else
 {
-for (hight = 0; hight < size; hight++)
+for (hight = 1; hight <= size; hight++)
 {
-for (space = 0; space < hight; space++)
+for (space = 1; space <= hight; space++)
 {
 if ((hight + space) <= size)
 {
