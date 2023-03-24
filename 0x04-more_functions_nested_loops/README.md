@@ -19,3 +19,5 @@
 - Eighth C file is 7-print_diagonal.c, it draws a diagonal line on the terminal.
 
 - Ninth C file is 8-print_square.c, it prints a square, followed by a new line.
+
+- Tenth C file is 9-fizz_buzz.c, it prints numbers from 1 to 100 followed by a newline, numbers multiples of 3 print Fizz, numbers multiples of 5 print Buzz, and numbers multiples of 3 and 5 print FizzBuzz.
