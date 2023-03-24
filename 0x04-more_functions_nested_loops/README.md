@@ -17,3 +17,5 @@
 - Seventh C file is 6-print_line.c, it draws a straight line in the terminal.
 
 - Eighth C file is 7-print_diagonal.c, it draws a diagonal line on the terminal.
+
+- Ninth C file is 8-print_square.c, it prints a square, followed by a new line.
