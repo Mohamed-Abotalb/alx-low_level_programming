@@ -27,3 +27,5 @@
 ## Advanced Parts of the Task
 
 - First C file is 100-prime_factor.c, it finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+
+- Second C file is 101-print_number.c, it prints an integer.
