@@ -19,7 +19,7 @@ else
 {
 for (hight = 1; hight <= size; hight++)
 {
-for (space = 1; space <= hight; space++)
+for (space = 1; space <= size; space++)
 {
 if ((hight + space) <= size)
 {
