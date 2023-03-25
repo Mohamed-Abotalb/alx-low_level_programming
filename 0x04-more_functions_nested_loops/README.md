@@ -23,3 +23,7 @@
 - Tenth C file is 9-fizz_buzz.c, it prints numbers from 1 to 100 followed by a newline, numbers multiples of 3 print Fizz, numbers multiples of 5 print Buzz, and numbers multiples of 3 and 5 print FizzBuzz.
 
 - Eleventh C file is 10-print_triangle.c, it prints a triangle, followed by a new line.
+
+## Advanced Parts of the Task
+
+- First C file is 100-prime_factor.c, it finds and prints the largest prime factor of the number 612852475143, followed by a new line.
