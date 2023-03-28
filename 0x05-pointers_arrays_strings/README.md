@@ -15,3 +15,5 @@
 - Sixth C file is 5-rev_string.c, it reverses a string.
 
 - Seventh C file is 6-puts2.c, it prints every other character of a string, starting with the first character, followed by a new line.
+
+- Eighth C file is 7-puts_half.c, it prints half of a string, followed by a new line.
