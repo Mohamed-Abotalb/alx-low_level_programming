@@ -14,10 +14,9 @@ int count, length = 0;
 char temp;
 
 /* get the length of the string */
-while (*s != '\0')
+while (s[length] != '\0')
 {
 length++;
-s++;
 }
 
 /* swap the characters */
@@ -28,4 +27,3 @@ s[count] = s[length - 1 - count];
 s[length - 1 - count] = temp;
 }
 }
-
