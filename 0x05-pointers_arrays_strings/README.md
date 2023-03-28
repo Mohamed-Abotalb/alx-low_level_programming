@@ -13,3 +13,5 @@
 - Fifth C file is 4-print_rev.c, it prints a string, in reverse, followed by a new line.
 
 - Sixth C file is 5-rev_string.c, it reverses a string.
+
+- Seventh C file is 6-puts2.c, it prints every other character of a string, starting with the first character, followed by a new line.
