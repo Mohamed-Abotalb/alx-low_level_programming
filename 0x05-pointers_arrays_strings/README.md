@@ -19,3 +19,5 @@
 - Eighth C file is 7-puts_half.c, it prints half of a string, followed by a new line.
 
 - Ninth C file is 8-print_array.c, it prints 'n' elements of an array of integers, followed by a new line.
+
+- Tenth C file is 9-strcpy.c, it copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
