@@ -10,15 +10,14 @@
 
 void print_rev(char *s)
 {
-int count;
-while (*s != '\0')
+int count = 0;
+while (s[count])
 {
 count++;
-s++;
 }
 while (count--)
 {
-putchar(s[count]);
+_putchar(s[count]);
 }
-putchar('\n');
+_putchar('\n');
 }
