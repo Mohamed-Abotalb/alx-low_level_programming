@@ -5,7 +5,7 @@
  *
  * @s: checks input of the function.
  *
- * Return: The function should return 0 (success).
+ * Return: The function should return the length of the string (success).
 */
 
 int _strlen(char *s)

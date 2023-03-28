@@ -7,3 +7,5 @@
 - Second C file is 1-swap.c, it swaps the values of two integers.
 
 - Third C file is 2-strlen.c, it returns the length of a string.
+
+- Fourth C file is 3-puts.c, it prints a string, followed by a new line, to stdout.

@@ -6,7 +6,7 @@
  * @a: checks input of the function.
  * @b: checks input of the function.
  *
- * Return: The function should return 0 (success).
+ * Return: void.
 */
 
 void swap_int(int *a, int *b)
