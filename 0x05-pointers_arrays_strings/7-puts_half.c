@@ -17,6 +17,8 @@ while (str[length] != '\0')
 length++;
 }
 
+length++;
+
 for (length /= 2; str[length] != '\0'; length++)
 {
     _putchar(str[length]);
