@@ -11,3 +11,5 @@
 - Fourth C file is 3-puts.c, it prints a string, followed by a new line, to stdout.
 
 - Fifth C file is 4-print_rev.c, it prints a string, in reverse, followed by a new line.
+
+- Sixth C file is 5-rev_string.c, it reverses a string.
