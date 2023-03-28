@@ -6,7 +6,7 @@
  *
  * @n: checks input of the function.
  *
- * Return: The main function should return 0 (success).
+ * Return: The function should return 0 (success).
 */
 
 void reset_to_98(int *n)
