@@ -25,3 +25,5 @@
 ## Advanced Parts of the Task
 
 - First C file is 100-atoi.c, it converts a string to an integer.
+
+- Second C file is 101-keygen.c, it generates random valid passwords for the program 101-crackme.
