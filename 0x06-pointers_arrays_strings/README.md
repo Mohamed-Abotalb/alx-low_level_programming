@@ -17,3 +17,7 @@
 - Seventh C file is 6-cap_string.c, it capitalizes all words of a string.
 
 - Eighth C file is 7-leet.c, it encodes a string into 1337.
+
+## Advanced Parts of the Task
+
+- First C file is 100-rot13.c, it encodes a string using rot13.
