@@ -11,7 +11,7 @@
 
 int isLower(char c)
 {
-    return (c >= 'a' && c <= 'z');
+return (c >= 'a' && c <= 'z');
 }
 
 /**
