@@ -13,3 +13,5 @@
 - Fifth C file is 4-rev_array.c, it reverses the content of an array of integers.
 
 - Sixth C file is 5-string_toupper.c, it changes all lowercase letters of a string to uppercase.
+
+- Seventh C file is 6-cap_string.c, it capitalizes all words of a string.
