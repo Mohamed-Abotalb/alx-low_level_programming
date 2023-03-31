@@ -9,3 +9,5 @@
 - Third C file is 2-strncpy.c, it copies a string.
 
 - Fourth C file is 3-strcmp.c, it compares two strings.
+
+- Fifth C file is 4-rev_array.c, it reverses the content of an array of integers.
