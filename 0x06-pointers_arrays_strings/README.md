@@ -15,3 +15,5 @@
 - Sixth C file is 5-string_toupper.c, it changes all lowercase letters of a string to uppercase.
 
 - Seventh C file is 6-cap_string.c, it capitalizes all words of a string.
+
+- Eighth C file is 7-leet.c, it encodes a string into 1337.
