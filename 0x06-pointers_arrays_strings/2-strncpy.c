@@ -19,7 +19,11 @@ for (count = 0; count < n && src[count] != '\0'; count++)
 dest[count] = src[count];
 }
 
-dest[count + 1] = '\0';
+while(count < n)
+{
+    dest[count] = '\0';
+    count++;
+}
 
 return (dest);
 }
