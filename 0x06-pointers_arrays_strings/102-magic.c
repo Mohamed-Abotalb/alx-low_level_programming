@@ -1,13 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - Entry point
- *
- * Description: it changes the value of a[2] to 98 and prints it.
- *
- * Return: The main function should return (0) success.
-*/
-
 int main(void)
 {
 int n;
