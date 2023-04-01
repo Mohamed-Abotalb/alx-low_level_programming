@@ -21,3 +21,5 @@
 ## Advanced Parts of the Task
 
 - First C file is 100-rot13.c, it encodes a string using rot13.
+
+- Second C file is 101-print_number.c, it prints an integer.
