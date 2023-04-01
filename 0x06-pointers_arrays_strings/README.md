@@ -23,3 +23,5 @@
 - First C file is 100-rot13.c, it encodes a string using rot13.
 
 - Second C file is 101-print_number.c, it prints an integer.
+
+- Third C file is 102-magic.c, it prints a[2] = 98, followed by a new line.
