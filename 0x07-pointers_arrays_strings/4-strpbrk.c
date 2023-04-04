@@ -32,8 +32,8 @@ return (ptr);
 secondCount++;
 }
 
-}
 firstCount++;
+}
 
 return (0);
 }
