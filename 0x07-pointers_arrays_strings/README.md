@@ -13,3 +13,5 @@
 - Fifth C file is 4-strpbrk.c, it searches a string for any of a set of bytes.
 
 - Sixth C file is 5-strstr.c, it locates a substring.
+
+- Seventh C file is 7-print_chessboard.c, it prints the chessboard.

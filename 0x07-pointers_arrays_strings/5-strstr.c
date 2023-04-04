@@ -16,9 +16,9 @@ int count;
 for (count = 0; haystack[count] >= '\0'; count++)
 {
 
-if (s[count] == needle)
+if (haystack[count] == needle)
 {
-return (s + count);
+return (haystack + count);
 }
 
 }
