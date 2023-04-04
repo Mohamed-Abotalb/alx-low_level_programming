@@ -8,4 +8,6 @@
 
 - Third C file is 2-strchr.c, it locates a character in a string.
 
-- Fourth C file is 3-strspn.c, it gets the length of a prefix substring and return the number of bytes in the initial segment of 's' which consist only of bytes from "accept"
+- Fourth C file is 3-strspn.c, it gets the length of a prefix substring and return the number of bytes in the initial segment of 's' which consist only of bytes from "accept".
+
+- Fifth C file is 4-strpbrk.c, it searches a string for any of a set of bytes.
