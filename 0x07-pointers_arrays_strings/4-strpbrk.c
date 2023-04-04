@@ -23,7 +23,7 @@ secondCount = 0;
 while (accept[secondCount] != '\0')
 {
 
-if (accept[secondCount] != s[firstCount])
+if (accept[secondCount] == s[firstCount])
 {
 ptr = &s[firstCount];
 return (ptr);
