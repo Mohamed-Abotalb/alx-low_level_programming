@@ -5,3 +5,5 @@
 - First C file is 0-memset.c, it fills memory with a constant byte.
 
 - Second C file is 1-memcpy.c, it copies memory area.
+
+- Third C file is 2-strchr.c, it locates a character in a string.
