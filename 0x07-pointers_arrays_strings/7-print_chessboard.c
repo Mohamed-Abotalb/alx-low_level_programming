@@ -5,7 +5,7 @@
  *
  * @a: checks input of the function.
  *
- * Return: The function should return the chessboard
+ * Return: The function should return the chessboard.
 */
 
 void print_chessboard(char (*a)[8])
