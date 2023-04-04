@@ -15,3 +15,5 @@
 - Sixth C file is 5-strstr.c, it locates a substring.
 
 - Seventh C file is 7-print_chessboard.c, it prints the chessboard.
+
+- Eighth C file is 8-print_diagsum.c, it prints the sum of the two diagonals of a square matrix of integers.
