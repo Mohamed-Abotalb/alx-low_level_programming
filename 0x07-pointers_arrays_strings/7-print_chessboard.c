@@ -5,8 +5,7 @@
  *
  * @a: checks input of the function.
  *
- * Return: The function should return the pointer to the beginning of
- * the located substring.
+ * Return: The function should return the chessboard
 */
 
 void print_chessboard(char (*a)[8])
