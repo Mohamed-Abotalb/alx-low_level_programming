@@ -17,3 +17,7 @@
 - Seventh C file is 7-print_chessboard.c, it prints the chessboard.
 
 - Eighth C file is 8-print_diagsum.c, it prints the sum of the two diagonals of a square matrix of integers.
+
+## Advanced Parts of the Task
+
+- First C file is 100-set_string.c, it sets the value of a pointer to a char.
