@@ -11,3 +11,5 @@
 - Fourth C file is 3-factorial.c, it returns the factorial of a given number.
 
 - Fifth C file is 4-pow_recursion.c, it returns the value of x raised to the power of y.
+
+- Sixth C file is 5-sqrt_recursion.c, it returns the natural square root of a number.
