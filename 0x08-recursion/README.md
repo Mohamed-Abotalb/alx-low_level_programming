@@ -7,3 +7,5 @@
 - Second C file is 1-print_rev_recursion.c, it prints a string in reverse followed by a new line.
 
 - Third C file is 2-strlen_recursion.c, it returns the length of a string.
+
+- Fourth C file is 3-factorial.c, it returns the factorial of a given number.
