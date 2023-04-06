@@ -9,3 +9,5 @@
 - Third C file is 2-strlen_recursion.c, it returns the length of a string.
 
 - Fourth C file is 3-factorial.c, it returns the factorial of a given number.
+
+- Fifth C file is 4-pow_recursion.c, it returns the value of x raised to the power of y.
