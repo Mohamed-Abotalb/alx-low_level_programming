@@ -13,3 +13,5 @@
 - Fifth C file is 4-pow_recursion.c, it returns the value of x raised to the power of y.
 
 - Sixth C file is 5-sqrt_recursion.c, it returns the natural square root of a number.
+
+- Seventh C file is 6-is_prime_number.c, it returns 1 if the input integer is a prime number, otherwise return 0.
