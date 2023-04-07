@@ -13,23 +13,13 @@ int check_prime(int i, int num);
 
 int is_prime_number(int n)
 {
-int prime = 1;
-if (n <= 0 || n == 1)
+if (n <= 1)
 {
 return (0);
 }
 else
 {
-prime = check_prime(2, n);
-}
-
-if (prime == 0)
-{
-return (0);
-}
-else
-{
-return (1);
+return (check_prime(2, n));
 }
 
 }
@@ -44,13 +34,16 @@ return (1);
 */
 int check_prime(int i, int num)
 {
-if (i <= num / 2 && num % i == 0)
+if (num % i == 0)
 {
 return (0);
 }
+else if (num > 1 && i == num)
+{
+return (1);
+}
 else
 {
-check_prime(i + 1, num);
-return (1);
+return (check_prime(i + 1, num));
 }
 }
