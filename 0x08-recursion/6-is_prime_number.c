@@ -50,6 +50,7 @@ return (0);
 }
 else
 {
-return (check_prime(i + 1, num));
+check_prime(i + 1, num);
+return (1);
 }
 }
