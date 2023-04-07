@@ -47,9 +47,3 @@ else
 return (check_prime(i + 1, num));
 }
 }
-
-void main()
-{
-    printf("%d", is_prime_number(5));
-    printf("%d", is_prime_number(103));
-}
