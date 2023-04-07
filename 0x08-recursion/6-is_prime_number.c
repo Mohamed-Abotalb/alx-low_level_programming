@@ -34,16 +34,22 @@ return (check_prime(2, n));
 */
 int check_prime(int i, int num)
 {
-if (num % i == 0)
-{
-return (0);
-}
-else if (num > 1 && i == num)
+if (num > 1 && i == num)
 {
 return (1);
+}
+else if (num % i == 0)
+{
+return (0);
 }
 else
 {
 return (check_prime(i + 1, num));
 }
+}
+
+void main()
+{
+    printf("%d", is_prime_number(5));
+    printf("%d", is_prime_number(103));
 }
