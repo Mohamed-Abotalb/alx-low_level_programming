@@ -24,7 +24,7 @@ for (size = 0; str[size] != '\0'; size++)
 ;
 
 /* +1 for the end of the string */
-m = malloc(sizeof(*str) + 1);
+m = malloc(size * sizeof(*str) + 1);
 
 if (m == 0)
 {
