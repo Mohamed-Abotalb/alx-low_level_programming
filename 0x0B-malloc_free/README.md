@@ -11,3 +11,7 @@
 - Fourth C file is 3-alloc_grid.c, it returns a pointer to a 2 dimensional array of integers.
 
 - Fifth C file is 4-free_grid.c, it frees a 2 dimensional grid previously created by your alloc_grid function.
+
+## Advanced Parts of the Task
+
+- First C file is 100-argstostr.c, it concatenates all the arguments of the program.
