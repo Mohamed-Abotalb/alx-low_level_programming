@@ -35,10 +35,10 @@ int firstSize, secondSize, count;
 char *m;
 
 if (s1 == NULL)
-firstSize = '\0';
+s1 = '\0';
 
 if (s2 == NULL)
-secondSize = '\0';
+s2 = '\0';
 
 firstSize = _strlen(s1);
 secondSize = _strlen(s2);
