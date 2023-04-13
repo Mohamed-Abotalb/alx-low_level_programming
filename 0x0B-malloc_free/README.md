@@ -15,3 +15,5 @@
 ## Advanced Parts of the Task
 
 - First C file is 100-argstostr.c, it concatenates all the arguments of the program.
+
+- Second C file is 101-strtow.c, it splits a string into words.
