@@ -7,3 +7,5 @@
 - Second C file is 1-strdup.c, it returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 
 - Third C file is 2-str_concat.c, it concatenates two strings.
+
+- Fourth C file is 3-alloc_grid.c, it returns a pointer to a 2 dimensional array of integers.
