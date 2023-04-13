@@ -3,25 +3,6 @@
 #include "main.h"
 
 /**
- * _strlen - it returns the length of a string.
- *
- * @s: checks input of the function.
- *
- * Return: The function should return the length of the string (success).
-*/
-
-int _strlen(char *s)
-{
-int length = 0;
-while (*s != '\0')
-{
-length++;
-s++;
-}
-return (length);
-}
-
-/**
  * *string_nconcat - it concatenates two strings.
  *
  * @s1: checks input of the function.
@@ -43,8 +24,10 @@ if (s2 == NULL)
 s2 = "";
 
 /* get the length of the two strings */
-firstLength = _strlen(s1);
-secondLength = _strlen(s2);
+for (firstLength = 0; s1[firstLength] != '\0'; firstLength++)
+;
+for (secondLength = 0; s2[secondLength] != '\0'; secondLength++)
+;
 
 string = malloc(firstLength + n + 1);
 
