@@ -44,7 +44,5 @@ mem = malloc(sizeof(int) * nmemb);
 if (mem == 0)
 return (NULL);
 
-_memset(mem, 0, sizeof(int) * nmemb);
-
-return (mem);
+return (_memset(mem, 0, sizeof(int) * nmemb));
 }
