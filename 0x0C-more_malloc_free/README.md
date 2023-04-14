@@ -13,3 +13,5 @@
 ## Advanced Parts of the Task
 
 - First C file is 100-realloc.c, it reallocates a memory block using "malloc" and "free".
+
+- Second C file is 101-mul.c, it multiplies two positive numbers.
