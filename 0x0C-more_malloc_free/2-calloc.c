@@ -14,13 +14,14 @@
 char *_memset(char *s, char b, unsigned int n)
 {
 unsigned int count;
+char *ptr = s;
 
 for (count = 0; n > 0; count++, n--)
 {
-s[count] = b;
+ptr[count] = b;
 }
 
-return (s);
+return (ptr);
 }
 
 /**
