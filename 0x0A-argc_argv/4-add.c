@@ -13,13 +13,13 @@
 
 int main(int argc, char *argv[])
 {
-int result, i;
+int result;
 char *character;
 
-for (i = 1; i < argc; i++)
+while(--argc)
 {
 
-for (character = argv[i]; *character; character++)
+for (character = argv[argc]; *character; character++)
 {
 
 if (*character < '0' || *character > '9')
@@ -30,7 +30,7 @@ return (1);
 
 }
 
-result += atoi(argv[i]);
+result += atoi(argv[argc]);
 }
 
 printf("%d\n", result);
