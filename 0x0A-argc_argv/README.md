@@ -11,3 +11,7 @@
 - Fourth C file is 3-mul.c, it multiplies two numbers.
 
 - Fifth C file is 4-add.c, it adds positive numbers and prints the result followed by a new line.
+
+## Advanced Parts of the Task
+
+- First C file is 100-change.c, it prints the minimum number of coins to make change for an amount of money.
