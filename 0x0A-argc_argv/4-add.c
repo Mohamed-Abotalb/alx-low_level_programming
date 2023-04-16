@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 int result, i;
 char *character;
 
-for (i = 0; i < argc; i++)
+for (i = 1; i < argc; i++)
 {
 
 for (character = argv[i]; *character; character++)
