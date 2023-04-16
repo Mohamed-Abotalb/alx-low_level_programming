@@ -9,3 +9,5 @@
 - Third C file is 2-args.c, it prints all arguments it receives.
 
 - Fourth C file is 3-mul.c, it multiplies two numbers.
+
+- Fifth C file is 4-add.c, it adds positive numbers and prints the result followed by a new line.
