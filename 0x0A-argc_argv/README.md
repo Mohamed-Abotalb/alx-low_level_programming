@@ -7,3 +7,5 @@
 - Second C file is 1-args.c, it prints the number of arguments passed into it, followed by a new line.
 
 - Third C file is 2-args.c, it prints all arguments it receives.
+
+- Fourth C file is 3-mul.c, it multiplies two numbers.
