@@ -13,10 +13,10 @@
 
 int main(int argc, char *argv[])
 {
-int result;
+int result = 0;
 char *character;
 
-while(--argc)
+while (--argc)
 {
 
 for (character = argv[argc]; *character; character++)
