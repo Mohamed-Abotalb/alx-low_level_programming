@@ -9,3 +9,5 @@
 - Third file is 2-main.c, it prints the name of the file it was compiled from, followed by a new line.
 
 - Fourth file is 3-function_like_macro.h, it creates a function-like macro "ABS(x)" that computes the absolute value of a number x.
+
+- Fifth file is 4-sum.h, it creates a function-like macro "SUM(x, y)" that computes the sum of the numbers x and y.
