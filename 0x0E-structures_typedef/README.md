@@ -8,3 +8,5 @@
   owner, type = char\*
 
 - Second file is 1-init_dog.c, it creates a function that initialize a variable of type struct dog.
+
+- Third file is 2-point_dog.c, it creates a function that prints a struct dog.
