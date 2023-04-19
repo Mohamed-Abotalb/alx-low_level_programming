@@ -50,7 +50,7 @@ return (dest);
  * @age: dog's age,
  * @owner: dog's owner
  *
- * Return - struct dog pointer or NULL if function fails.
+ * Return: pointer to new struct.
  *
 */
 
