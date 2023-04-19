@@ -14,3 +14,5 @@
 - Fourth file is dog.h, it's about adding a new type dog_t as a new name for the type struct dog.
 
 - Fifth file is 4-new_dog.c, it creates a function that creates a new dog.
+
+- Sixth file is 5-free_dog.c, it creates a function that frees dogs.
