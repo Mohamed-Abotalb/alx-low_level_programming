@@ -1,7 +1,7 @@
 #include <function_pointers.h>
 
 /**
- * print_name - it prints a struct dog.
+ * print_name - it prints a name.
  *
  * @name: checks the input to function
  * @f: checks the input to function
